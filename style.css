@@ -66,3 +66,11 @@ img {
     width: 25%;
     float: left;
 }
+
+.footer {
+    padding: 20px;
+    background-color: #824F69;
+    color: white;
+    font-family: "Encode Sans", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
