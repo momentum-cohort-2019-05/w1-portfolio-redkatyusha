@@ -45,6 +45,7 @@ img {
 
 .main {
     padding: 10px;
+    overflow: hidden;
 }
 
 .mainHeader {
@@ -63,7 +64,7 @@ img {
 }
 
 .mainImg {
-    width: 25%;
+    width: 50%;
     float: left;
 }
 
@@ -82,6 +83,10 @@ img {
 
 @media screen and (min-width: 900px) {
     .project {
-        width: 50%;
+        width: 45%;
+    }
+
+    .mainImg {
+        width: 25%;
     }
 }
