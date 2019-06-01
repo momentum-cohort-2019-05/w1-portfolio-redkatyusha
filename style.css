@@ -20,7 +20,7 @@ img {
 .header h1 {
     color: white;
     font-family: "Megrim", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 52px;
+    font-size: 48px;
     padding-left: 20px;
     padding-bottom: 5px;
 }
@@ -60,4 +60,9 @@ img {
     font-family: "Encode Sans", Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     padding: 10px;
+}
+
+.main img {
+    width: 25%;
+    float: left;
 }
