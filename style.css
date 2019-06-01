@@ -78,7 +78,8 @@ img {
 
 .project {
     display: inline-block;
-    font-family: "Encode Sans", Tahoma, Geneva, Verdana, sans-serif
+    font-family: "Encode Sans", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px;
 }
 
 @media screen and (min-width: 900px) {
