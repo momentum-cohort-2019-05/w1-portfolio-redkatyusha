@@ -8,3 +8,36 @@ img {
     max-width: 100%;
 }
 
+.header {
+    background-color: #824f69;
+    padding: 20px;
+}
+
+.header img {
+    height: 120px;
+}
+
+.header h1 {
+    color: white;
+    font-family: "Inconsolata", "Courier New", Courier, monospace;
+    font-size: 48px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #E87DA0;
+    padding: 20px;
+    font-family: "Inconsolata", "Courier New", Courier, monospace;
+    font-size: 24px;
+}
+
+.navbar a:link {
+    color: white;
+}
+
+.navbar a:visited {
+    color: #E8C57D;
+}
